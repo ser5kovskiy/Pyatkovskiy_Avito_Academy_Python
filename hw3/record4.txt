@@ -1,0 +1,13 @@
+============================= test session starts ==============================
+platform linux -- Python 3.6.9, pytest-7.0.1, pluggy-1.0.0 -- /usr/bin/python
+cachedir: .pytest_cache
+rootdir: /home/sergey/avito_academy/avito_python_fall_2022/Pyatkovskiy_Avito_Academy_Python/hw3
+plugins: xdist-2.4.0, allure-pytest-2.8.32, forked-1.4.0
+collecting ... collected 4 items
+
+issue4.py::test_one_category PASSED                                      [ 25%]
+issue4.py::test_two_category PASSED                                      [ 50%]
+issue4.py::test_iterable_exception PASSED                                [ 75%]
+issue4.py::test4 PASSED                                                  [100%]
+
+============================== 4 passed in 0.02s ===============================

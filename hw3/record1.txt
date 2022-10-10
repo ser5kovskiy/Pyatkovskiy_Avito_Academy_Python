@@ -1,0 +1,23 @@
+Trying:
+    encode('SOS')
+Expecting:
+    '... --- ...'
+ok
+Trying:
+    encode('HELLO THERE')
+Expecting:
+    '.... . .-.. .-.. ---   - .... . .-. .'
+ok
+Trying:
+    encode('^_^')
+Expecting:
+    Traceback (most recent call last):
+    KeyError: '^'
+ok
+1 items had no tests:
+    issue1
+1 items passed all tests:
+   3 tests in issue1.encode
+3 tests in 2 items.
+3 passed and 0 failed.
+Test passed.

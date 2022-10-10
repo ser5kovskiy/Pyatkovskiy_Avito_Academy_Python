@@ -1,0 +1,12 @@
+============================= test session starts ==============================
+platform linux -- Python 3.6.9, pytest-7.0.1, pluggy-1.0.0 -- /usr/bin/python
+cachedir: .pytest_cache
+rootdir: /home/sergey/avito_academy/avito_python_fall_2022/Pyatkovskiy_Avito_Academy_Python/hw3
+plugins: xdist-2.4.0, allure-pytest-2.8.32, forked-1.4.0
+collecting ... collected 3 items
+
+issue2.py::test_decode[.... . .-.. .-.. ---  - .... . .-. .-HELLO THERE] PASSED [ 33%]
+issue2.py::test_decode[--. . -. . .-. . .- .-..  -.- . -. --- -... ..-GENEREAL KENOBI] PASSED [ 66%]
+issue2.py::test_decode[... --- ...-SOS] PASSED                           [100%]
+
+============================== 3 passed in 0.02s ===============================

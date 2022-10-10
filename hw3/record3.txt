@@ -1,0 +1,9 @@
+test4 (issue3.TestOneHotEncoding) ... ok
+test_iterable_exception (issue3.TestOneHotEncoding) ... ok
+test_one_category (issue3.TestOneHotEncoding) ... ok
+test_two_category (issue3.TestOneHotEncoding) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.001s
+
+OK
